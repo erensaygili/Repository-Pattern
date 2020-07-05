@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0u8fWnWZc1sqNU0Tzuqr+ogbVdAk2NPkEegJd2SGKlK3PYOyAxTIDOSSO5ElcK4GCBcNA5KdXPM6i3NhQScJBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saygi\\source\\repos\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saygi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
